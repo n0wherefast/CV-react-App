@@ -1,0 +1,12 @@
+@media (max-width: 48em) {
+  .container{
+    display: block !important;
+  }
+}
+.card-title{
+  font-size: 56px ;
+  font-weight: 900;
+}
+.card-body > h1 , h2{
+  border-bottom: 1px black solid;
+}
