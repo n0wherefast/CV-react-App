@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CV-react-app/static/css/main.01938f1c.css",
+    "main.js": "/CV-react-app/static/js/main.36434909.js",
+    "static/js/236.0b01d482.chunk.js": "/CV-react-app/static/js/236.0b01d482.chunk.js",
+    "static/js/703.5e447590.chunk.js": "/CV-react-app/static/js/703.5e447590.chunk.js",
+    "static/js/56.bd5fe2ee.chunk.js": "/CV-react-app/static/js/56.bd5fe2ee.chunk.js",
+    "static/js/787.34a20539.chunk.js": "/CV-react-app/static/js/787.34a20539.chunk.js",
+    "index.html": "/CV-react-app/index.html",
+    "main.01938f1c.css.map": "/CV-react-app/static/css/main.01938f1c.css.map",
+    "main.36434909.js.map": "/CV-react-app/static/js/main.36434909.js.map",
+    "236.0b01d482.chunk.js.map": "/CV-react-app/static/js/236.0b01d482.chunk.js.map",
+    "703.5e447590.chunk.js.map": "/CV-react-app/static/js/703.5e447590.chunk.js.map",
+    "56.bd5fe2ee.chunk.js.map": "/CV-react-app/static/js/56.bd5fe2ee.chunk.js.map",
+    "787.34a20539.chunk.js.map": "/CV-react-app/static/js/787.34a20539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01938f1c.css",
+    "static/js/main.36434909.js"
+  ]
+}
