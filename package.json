@@ -2,7 +2,7 @@
   "name": "cv-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://n0wherefast.github.io/CV-react-app",
+  "homepage": "http://n0wherefast.github.io/CV-react-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
