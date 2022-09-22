@@ -47,9 +47,9 @@ const [submit, setSubmmit] = useState(false)
                        {id:14,head:'Description', type:'text',change:'descriptionEdu',classnamelabel:'form-label',classnamediv:"col-12",classnameInput:"form-control"},
                        ])
           
+//     MANAGE  SUBMIT EVENT AND VALIDATION
 
-
-   const handleSubmit = (e) => {
+ const handleSubmit = (e) => {
      e.preventDefault();
    if(!status.name || !status.title || !status.email || !status.phone || !status.city){
                
@@ -60,11 +60,13 @@ const [submit, setSubmmit] = useState(false)
                setSubmmit(true )       
    }
      };
+//     MANAGE  SUBMIT EVENT AND VALIDATION
+
+
+
   const onChange = input => e => {
           
-          setStatus({ ...status, [input] : e.target.value}) 
-             
-          
+          setStatus({ ...status, [input] : e.target.value})   
      }
      
    
@@ -93,14 +95,9 @@ const [submit, setSubmmit] = useState(false)
                                    
                               ))}
                               
-
-
-
                               {/* ///////////////// WORK EXP\\\\\\\\\\\\\\\\\\ */}
 
-                           
-
-                   
+                         
                                <h1 style={{ margin: "2rem" }}>
                                    Work Experience
                               </h1>
